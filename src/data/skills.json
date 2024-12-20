@@ -1,0 +1,38 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.webp"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.webp"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/javascript.webp"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.webp"
+    },
+    {
+        "title": "Node",
+        "imageSrc": "skills/node.webp"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongo.webp"
+    },
+    {
+        "title": "Express",
+        "imageSrc": "skills/express.webp"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "skills/git.webp"
+    },
+    {
+        "title": "GitHub",
+        "imageSrc": "skills/github.webp"
+    }
+]

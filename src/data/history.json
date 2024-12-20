@@ -1,0 +1,26 @@
+[
+    {
+        "role": "System Administrator",
+        "organisation": "Lanalden",
+        "startDate": "Sept, 2022",
+        "endDate": "May, 2024",
+        "experiences": ["System maintenance", "Issue resolution", "User Support"],
+        "imageSrc": "history/lanalden.webp"
+    },
+    {
+        "role": "Systems Technician Intern",
+        "organisation": "El Corte Inglés",
+        "startDate": "Mar, 2020",
+        "endDate": "May, 2020",
+        "experiences": ["TPV installations", "Issue resolution", "System checks"],
+        "imageSrc": "history/eci.webp"
+    },
+    {
+        "role": "Computer Technician Intern",
+        "organisation": "CanalPC",
+        "startDate": "Mar, 2018",
+        "endDate": "May, 2018",
+        "experiences": ["Laptop and desktop repair", "Computer assembly", "Operating systems maintenance"],
+        "imageSrc": "history/canalpc.webp"
+    }
+]

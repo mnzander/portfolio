@@ -1,0 +1,17 @@
+[
+    {
+        "language": "Spanish",
+        "flag": "languages/spain.webp",
+        "level": "Native"
+    },
+    {
+        "language": "English",
+        "flag": "languages/uk.webp",
+        "level": "Upper Intermediate"
+    },
+    {
+        "language": "Basque",
+        "flag": "languages/basque.webp",
+        "level": "Basic"
+    }
+]

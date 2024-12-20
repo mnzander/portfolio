@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Advanced Technician in Telecommunications & IT",
+        "academy": "Zabalburu",
+        "startDate": "Sept, 2016",
+        "endDate": "May, 2018",
+        "experiences": ["Installation and Configuration", "Planning and Management", "Maintenance and Quality"],
+        "imageSrc": "studies/zabalburu.webp",
+        "web": "https://www.zabalburu.org/"
+    },
+    {
+        "title": "Advanced Technician in Systems Administration",
+        "academy": "Zabalburu",
+        "startDate": "Sept, 2018",
+        "endDate": "May, 2020",
+        "experiences": ["Network services", "Databases", "Manage users and OS"],
+        "imageSrc": "studies/zabalburu.webp",
+        "web": "https://www.zabalburu.org/"
+    },
+    {
+        "title": "Full-stack Web Development Bootcamp",
+        "academy": "Codespace Academy",
+        "startDate": "May, 2024",
+        "endDate": "Oct, 2024",
+        "experiences": ["Front-end", "Back-end", "SQL/No-SQL"],
+        "imageSrc": "studies/codespace.webp",
+        "web": "https://codespaceacademy.com/"
+    },
+    {
+        "title": "Full-stack Open Course",
+        "academy": "University of Helsinky",
+        "startDate": "Nov, 2024",
+        "endDate": "Dic, 2024",
+        "experiences": ["React, Typescript", "MongoDB", "GraphQL"],
+        "imageSrc": "studies/helsinky.webp",
+        "web": "https://www.fullstackopen.com"
+    }    
+]

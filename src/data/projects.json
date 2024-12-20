@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Bizkaia Maite Tours",
+        "imageSrc": "projects/bmt.webp",
+        "description": "Frontend project for a small enterprise of touring in Biscay.",
+        "skills": ["HTML", "CSS", "Javascript", "Responsive"],
+        "demo": "http://www.bizkaiamaitetours.com",
+        "source": "https://github.com/mnzander/bizkaiamaitetours"
+    },
+    {
+        "title": "Politamente",
+        "imageSrc": "projects/politamente.webp",
+        "description": "Fullstack project for a small enterprise of furnitures for events.",
+        "skills": [ "Javascript", "Nodejs", "Express", "MongoDB", "Multer"],
+        "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7252310325276852225/",
+        "source": "https://github.com/mnzander/politamente_backFront"
+    },
+    {
+        "title": "Donuts Manager",
+        "imageSrc": "projects/donuts.webp",
+        "description": "Fullstack project to simulate a donuts manager with CRUD.",
+        "skills": [ "React", "Nodejs", "Express", "MongoDB", "Responsive"],
+        "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7270440453181784064/",
+        "source": "https://github.com/mnzander/donutsApp_React_frontBack"
+    }
+]

@@ -1,0 +1,27 @@
+@import "../../vars.css";
+
+.container {
+    position: fixed;
+    bottom: 20px;
+    right: 3.5%;
+    z-index: 1000;
+}
+
+.arrow {
+    width: 55px;
+    padding: 5px;
+    color: var(--color-text);
+    background-color: var(--color-dark);
+}
+
+@media screen and (max-width: 830px) {
+    .container {
+        bottom: -4px;
+        right: 0;
+    }
+
+    .arrow {
+        width: 10vw;
+        background-color: transparent;
+    }
+}
